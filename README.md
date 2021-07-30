@@ -3,5 +3,4 @@ A collection of Notable college projects that I have completed.
 
 
 
-link(https://imgur.com/gallery/A6Rwga3)["Demonstration of screensavers program : "]
-
+[Demonstration of screensavers program :](https://imgur.com/gallery/A6Rwga3)
